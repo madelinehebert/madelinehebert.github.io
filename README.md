@@ -2,7 +2,7 @@
 <html>
   <head></head>
   <body>
-    <a href="https://.sr.ht/~madelinehebert">Source Hut projects</a>
+    <a href="https://sr.ht/~madelinehebert">Source Hut projects</a>
     <br>
     <p>Notable Projects</p>
     <table>

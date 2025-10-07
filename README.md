@@ -26,6 +26,14 @@
         <td>Firebase Openbadges Api Example</td>
         <td>An open-sourced subset of a production OpenBadges API implemented in Python for use as Google Cloud Functions.</td>
       </tr>
+      <tr>
+        <td>Maddiepkg</td>
+        <td>A simple, production-ready, cross-platform package mangement solution.</td>
+      </tr>
+      <tr>
+        <td>User GUI<td>
+        <td>A Haskell-written replacement for the YaST Users & Groups submenu in OpenSUSE Leap 16.0. Uses the Qt framework.</td>
+      </tr>
     </table>
   </body>
 </html>

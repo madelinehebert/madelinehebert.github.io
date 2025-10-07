@@ -16,7 +16,7 @@
       </tr>
       <tr>
         <td>Zfsgui</td>
-        <td>A simple python GUI build with Qt to view and filter ZFS filesystems on local or remote systems.</td>
+        <td>A simple python GUI built with Qt to view and filter ZFS filesystems on local or remote systems.</td>
       </tr>
       <tr>
         <td>Xtool Creative Space Dockerized</td>

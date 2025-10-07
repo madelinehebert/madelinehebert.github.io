@@ -16,11 +16,15 @@
       </tr>
       <tr>
         <td>Zfsgui</td>
-        <td>A simple python GUI built with Qt to view and filter ZFS filesystems on local or remote systems.</td>
+        <td>A simple Python GUI built with Qt to view and filter ZFS filesystems on local or remote systems.</td>
       </tr>
       <tr>
         <td>Xtool Creative Space Dockerized</td>
         <td>A dockerized version of Xtool's laser cutter software.</td>
+      </tr>
+      <tr>
+        <td>Firebase Openbadges Api Example</td>
+        <td>An open-sourced subset of a production OpenBadges API implemented in Python for use as Google Cloud Functions.</td>
       </tr>
     </table>
   </body>

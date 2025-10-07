@@ -14,6 +14,10 @@
         <td>Register</td>
         <td>A podman clone aimed at providing a better management experience for Linux zones under Illumos.</td>
       </tr>
+      <tr>
+        <td>Zfsgui</td>
+        <td>A simple python GUI build with Qt to view and filter ZFS filesystems on local or remote systems.</td>
+      </tr>
     </table>
   </body>
 </html>

@@ -11,7 +11,7 @@
         <th>Description</th>
       </tr>
       <tr>
-        <td>Register</td>
+        <td><a href="https://hg.sr.ht/~madelinehebert/register">Register</a></td>
         <td>A podman clone aimed at providing a better management experience for Linux zones under Illumos.</td>
       </tr>
       <tr>
